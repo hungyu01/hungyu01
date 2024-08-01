@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lin_HY :)</h1>
-<h3 align="center">A passionate developer from Taiwan</h3>
+<h3 align="center">A passionate junior developer from Taiwan</h3>
 
 - 🌱 I’m currently learning **Vue.js, Nuxt.js and Cloud Service**
 
